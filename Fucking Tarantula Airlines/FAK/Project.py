@@ -26,12 +26,17 @@ class Usuario:
     def BistaratuDNI (self):
         print(self.DNI)
         
+    def BistaratuTel(self):
+        print(self.Telefono)
         
         
         
             
         
-u1=Usuario('Ander','Conchas','65432345X','','') 
+        
+            
+        
+u1=Usuario('Ander','Conchas','65432345X','688666006','') 
 u2=Usuario('Unai','','','','') 
 u3=Usuario('Jon','','','','') 
 u4=Usuario('Tarantula','','','','') 
@@ -40,6 +45,6 @@ u2.Bistaratu()
 u3.Bistaratu()
 u4.Bistaratu()
 u1.BistaratuDNI()
-
+u1.BistaratuTel()
 
 
