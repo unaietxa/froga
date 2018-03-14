@@ -26,15 +26,12 @@ class Usuario:
     def BistaratuDNI (self):
         print(self.DNI)
         
-    def BistaratuTel(self):
-        print(self.Telefono)
-        
-        
-        
-            
+    
         
         
             
+        
+                 
         
 u1=Usuario('Ander','Conchas','65432345X','688666006','') 
 u2=Usuario('Unai','','','','') 
