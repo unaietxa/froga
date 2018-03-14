@@ -28,6 +28,8 @@ class Usuario:
 u1=Usuario('Ander','Conchas','','','') 
 u2=Usuario('Unai','','','','') 
 u3=Usuario('Jon','','','','') 
+u4=Usuario('Tarantula','','','','') 
 u1.Bistaratu()
 u2.Bistaratu()
 u3.Bistaratu()
+u4.Bistaratu()
